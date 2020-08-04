@@ -2,7 +2,7 @@
 
 A short and simple code for fitting Gaussian, Lorentzians or Voigts to spectroscopy data. The code is based on [**Non-Linear Least-Squares Minimization and Curve-Fitting for Python.**](https://lmfit.github.io/lmfit-py/ "LMFIT webpage")
 
-![Sample_Fit](/images/logo.png)
+<img src="https://github.com/Squig-Liang/SimPeakFit/blob/master/sample.png" alt="An Example Fit" width="600"/>
 
 Basic requirements: **lmfit**. Install: >pip install lmfit
 
