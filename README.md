@@ -4,7 +4,8 @@ A short and simple code for fitting Gaussian, Lorentzians or Voigts to spectrosc
 
 <img src="https://github.com/Squig-Liang/SimPeakFit/blob/master/sample.png" alt="An Example Fit" width="600"/>
 
-Basic requirements: **lmfit**. Install: >pip install lmfit
+Essential Requirements: **lmfit**. 
+>pip install lmfit
 
 Input data layout(for the case of Raman spectroscopy) have wavenumbers as column headers and a single row corresponding to one spectrum.
 
