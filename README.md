@@ -10,3 +10,5 @@ Input data layout(for the case of Raman spectroscopy) have wavenumbers as column
 - Polynomial Baseline Subtraction
 - Multiple Peak Fits
 - Plotting of Fitted Envelope and Individual Components
+
+The notebook file runs the fitting code and the .csv file is a test dataset based on Raman spectroscopy.
