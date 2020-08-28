@@ -15,3 +15,6 @@ Input data layout(for the case of Raman spectroscopy) have wavenumbers as column
 - Plotting of Fitted Envelope and Individual Components
 
 The notebook file runs the fitting code and the .csv file is a test dataset based on Raman spectroscopy.
+
+Recent update
+28 August 2020: Added progress bar during curve fitting process.
